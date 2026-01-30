@@ -1,7 +1,7 @@
 ---
 title: "Test Quarto"
 author: "Storm Zierden"
-format: html
+format: gfm
 ---
 
 ## Quarto
